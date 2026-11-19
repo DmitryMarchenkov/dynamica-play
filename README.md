@@ -6,4 +6,4 @@ This repository holds only the published player build. © 2026 Dmytro Marchenkov
 
 Separate mobile edition: `mobile/index.html`, at `/dynamica-play/mobile/`. Both editions share saved progress on the same site.
 
-Build 2026-11-17: Professor's hint after three failed runs, first-minute guide on levels 1–2, result line with Try again / Next, playtest report in Progress, English text fix. Desktop SHA-256 f2e07c65…, mobile 7c6dee5f….
+Build 2026-11-19: workshop art (study, mechanics workshop, laboratory, observatory), new Professor, Professor's hint after three failed runs, first-minute guide, result line with Try again / Next, playtest report in Progress. Desktop SHA-256 06ea23ca…, mobile 279f413d….
