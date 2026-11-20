@@ -11,3 +11,5 @@ Build 2026-11-19: workshop art (study, mechanics workshop, laboratory, observato
 Fan physics correction 2026-11-19: round housing, solid stand/input plate, no hidden square support; control/hint coordinates updated for L3/L9/L28.
 
 Field focus 2026-11-19: no browser focus ring around the field after Space. Desktop SHA-256 be9efe839707…, mobile f1bb4a108163….
+
+Mobile redirect 2026-11-20: phones and tablets opening the main page go to mobile/; add ?desktop to keep the desktop version. Desktop page SHA-256 4df06ee0eb12…, mobile f1bb4a108163….
